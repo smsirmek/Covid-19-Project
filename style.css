@@ -1,0 +1,11 @@
+.jumboHeaderImage{
+    background-image: url("/image/COVID-19.png");
+    background-size: cover;
+}
+.picture{
+    align-items: center;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
