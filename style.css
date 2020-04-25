@@ -13,3 +13,8 @@
       text-align: center;
       color: aliceblue;
   }
+  .profile-img{
+    text-align: center;
+      width: 350px;
+      height: 350px;
+  }
